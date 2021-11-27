@@ -108,7 +108,7 @@ For the Question Paper-
 
 ## Credits:
 This project was made by-
+* Pratham Gupta
 * Tanmay Goyal
 * Laksh Balani
 * Siddh  Jain
-* Pratham Gupta
