@@ -1,7 +1,9 @@
 # ExamTex
 
 ## Introduction:
-This is a project to create multiple random question papers from large question banks by parsing specification files in *Latex* like format (Refer sample inputs for question banks/papers below).  <br> <br>
+This is a project to create multiple random question papers from large question banks by parsing specification files in *Latex* like format (Refer sample inputs for question banks/papers below).  
+
+The code incorporates data structures like trees, queues, stacks etc and employs various computional algorithms to genrate random question papers meeting the parsed specifications. <br> <br>
 
 ## About the program:
 This is a menu-driven program. Select the option number for performing that function:-
